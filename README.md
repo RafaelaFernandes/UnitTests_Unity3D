@@ -1,17 +1,16 @@
-# Unit tests on Unity 3D
-> Project built for the grade C214 at INATEL using NUnit as main framework at Unity 3D
+# Testes de unidade no Unity3D
+> O objetivo para o programa é realizar um Teste de Unidade com a linguagem escolhida ou sorteada em sala de aula.
 
-## Table of contents
-* [General info](#general-info)
+## Conteúdos
+* [Informações gerais](#informações-gerais)
 * [Test Runner](#test-runner)
 * [Unity](#unity)
-* [Presentation](#presentation)
-* [Technologies](#technologies)
+* [Apresentação](#apresentação)
+* [Tecnologias](#tecnologias)
 
-## General info
+## Informações gerais
 <img src="/doc/logo.png" />
 
-O objetivo para o programa é realizar um Teste de Unidade com a linguagem escolhida ou sorteada em sala de aula.
 
 O que é um teste de unidade?
 Antes de mergulhar no código, é importante ter um conhecimento sólido do que é teste de unidade. Simplificando, um teste de unidade é um teste de alguma ação no software.
@@ -43,7 +42,7 @@ No programa Unity são utilizados diversos tipos de linguagem de programação, 
 Por que razão usar o Unity?
 É que o Unity tem linguagem e interface mais amigáveis e fáceis de se utilizar, o que acaba atraindo mais programadores e desenvolvedores de games. ... Além disso, o Unity trabalha todos os seus games com o sistema de cenas, que, por sua vez, são compostas por game objects
 
-## Presentation
+## Apresentação
 
 Separamos a apresentação em duas partes:
 
@@ -52,8 +51,8 @@ Separamos a apresentação em duas partes:
 2 - Teste de Unidade (RafaelaFernandes).
 
 	
-## Technologies
-Project is created with:
-* Unity 2020.3.17f
-* NUnity
+## Tecnologias
+Para esse projeto utilizamos:
+* Unity3D versão 2020.3.17f
+* NUnity framework
 * C#
