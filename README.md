@@ -24,6 +24,11 @@ Um conjunto de testes é onde você divide logicamente seus testes. Você deseja
 Sobre o Unity:
 O Unity 3D é um software que possibilita o desenvolvimento de jogos. Assim como toda game engine, ela facilita o desenvolvimento de jogos pelo fato de o desenvolvedor não precisar programar diretamente para DirectX ou OpenGL, pois ela já faz isso automaticamente.
 
+Quais linguagens posso usar no Unity?
+No programa Unity são utilizados diversos tipos de linguagem de programação, principalmente as linguagens C++ e C#, nos scripts dos objetos do jogo. Inclusive o phellype4 ja utilizou a linguagem java em alguns progrmas feitos no Unity. Ele permite também mesclar códigos, por exemplo, usar um código para andar em C# e outro código para pular em Java, assim por diante.
+
+<img src="/doc/linguagens.jpg" />
+
 Por que razão usar o Unity?
 É que o Unity tem linguagem e interface mais amigáveis e fáceis de se utilizar, o que acaba atraindo mais programadores e desenvolvedores de games. ... Além disso, o Unity trabalha todos os seus games com o sistema de cenas, que, por sua vez, são compostas por game objects
 
