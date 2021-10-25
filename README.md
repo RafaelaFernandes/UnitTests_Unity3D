@@ -6,7 +6,9 @@ Unit tests using Unity3D
 O objetivo para o programa é realizar um Teste de Unidade com a linguagem escolhida ou sorteada em sala de aula.
 
 O que é um teste de unidade?
-Antes de mergulhar no código, é importante ter um conhecimento sólido do que é teste de unidade. Simplificando, um teste de unidade é ... um teste de unidade. :]
+Antes de mergulhar no código, é importante ter um conhecimento sólido do que é teste de unidade. Simplificando, um teste de unidade é um teste de alguma ação no software.
+
+<img src="/doc/teste.jpg" />
 
 Um teste de unidade é (idealmente) para testar uma única “unidade” de código. Exatamente o que compõe uma "unidade" varia, mas o importante a se ter em mente é que um teste de unidade deve testar exatamente uma 'coisa' de cada vez.
 
