@@ -8,11 +8,11 @@ O objetivo para o programa é realizar um Teste de Unidade com a linguagem escol
 O que é um teste de unidade?
 Antes de mergulhar no código, é importante ter um conhecimento sólido do que é teste de unidade. Simplificando, um teste de unidade é um teste de alguma ação no software.
 
-<img src="/doc/teste.jpg" />
-
 Um teste de unidade é (idealmente) para testar uma única “unidade” de código. Exatamente o que compõe uma "unidade" varia, mas o importante a se ter em mente é que um teste de unidade deve testar exatamente uma 'coisa' de cada vez.
 
 Para escrever testes, você primeiro precisa saber sobre o executor de testes da Unity. O Test Runner permite que você execute testes e veja se eles passam. Para abrir o executor de teste do Unity, escolha Window ▸ General ▸ Test Runner.
+
+<img src="/doc/teste.jpg" />
 
 O que há em um pacote de teste?
 Um teste de unidade é uma função que testa o comportamento de um pequeno conjunto de código específico. Como um teste de unidade é um método, ele precisa estar em um arquivo de classe para ser executado.
