@@ -1,8 +1,9 @@
 # UnitTests_Unity3D
 Unit tests using Unity3D
 
+<img src="/doc/logo.png" />
 
-O objetivo para o programa é realizr um Teste de Unidade com a linguagem escolhida ou sorteada em sala de aula.
+O objetivo para o programa é realizar um Teste de Unidade com a linguagem escolhida ou sorteada em sala de aula.
 
 O que é um teste de unidade?
 Antes de mergulhar no código, é importante ter um conhecimento sólido do que é teste de unidade. Simplificando, um teste de unidade é ... um teste de unidade. :]
